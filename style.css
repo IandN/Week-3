@@ -1,6 +1,8 @@
 body
 {
 background-color: #00A362;
-
-
+font-size:	150%;
+color: white;
+font-family: arial;
+text-shadow: 2px 2px 4px #000000;
 }
